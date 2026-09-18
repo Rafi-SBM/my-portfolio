@@ -973,7 +973,7 @@ export default function Portfolio() {
                     <Linkedin size={15} /> LinkedIn
                   </a>
                   <a
-                    href="https://github.com/Rafi-Luffy"
+                    href="https://github.com/Rafi-SBM"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="social-pill"

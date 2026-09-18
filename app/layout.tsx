@@ -34,6 +34,8 @@ export const metadata: Metadata = {
     'S.B.M. Rafi',
     'sbm.rafi',
     'Rafi SBM',
+    'Rafi-SBM',
+    'rafisbm',
     'Rafi-Luffy',
     'Rafi Luffy',
     'rafiluffy',
@@ -46,6 +48,7 @@ export const metadata: Metadata = {
     'S.B.M. Rafi Portfolio',
     'Rafi.S.B.M Portfolio',
     'sbmrafi Portfolio',
+    'Rafi SBM Portfolio',
     'Rafi Luffy Portfolio',
     'AI Engineer',
     'Agentic AI',
@@ -58,13 +61,13 @@ export const metadata: Metadata = {
     'Google Agentic AI Finalist',
     'Google Cloud Agentic AI Grand Finalist'
   ],
-  authors: [{ name: 'Shaik Balaji Mahammad Rafi', url: 'https://github.com/Rafi-Luffy' }],
+  authors: [{ name: 'Shaik Balaji Mahammad Rafi', url: 'https://github.com/Rafi-SBM' }],
   creator: 'Shaik Balaji Mahammad Rafi',
-  metadataBase: new URL('https://rafi-luffy.github.io'),
+  metadataBase: new URL('https://rafi-sbm.github.io'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://rafi-luffy.github.io/my-portfolio/',
+    url: 'https://rafi-sbm.github.io/my-portfolio/',
     title: 'Rafi.S.B.M | Code Navigator',
     description:
       'AI Engineer, Google Agentic AI Grand Finalist, and Full-Stack Systems Architect building production-ready intelligence systems that work everywhere.',

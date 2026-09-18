@@ -93,7 +93,7 @@ export default function CommandPalette() {
       title: 'PySan (Client-Side AST Visualizer)',
       subtitle: '100% In-Browser Python Package & Bloat Analysis',
       action: () => {
-        window.open('https://rafi-luffy.github.io/PySan', '_blank');
+        window.open('https://rafi-sbm.github.io/PySan', '_blank');
         setIsOpen(false);
       },
       icon: <ExternalLink size={16} />

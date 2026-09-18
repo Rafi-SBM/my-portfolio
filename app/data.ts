@@ -37,7 +37,7 @@ export const featured: FeaturedSystem[] = [
       'Automated telemetry brief generation for mission-critical biology teams'
     ],
     tech: ['Python', 'LangGraph', 'FastAPI', 'ChromaDB', 'PubMed API', 'Streamlit'],
-    github: 'https://github.com/Rafi-Luffy/Project-Chimera',
+    github: 'https://github.com/Rafi-SBM/Project-Chimera',
     visual: 'chimera'
   },
   {
@@ -58,7 +58,7 @@ export const featured: FeaturedSystem[] = [
       'Strict out-of-bounds safety filters protecting confidential personal data'
     ],
     tech: ['TypeScript', 'Next.js', 'Neo4j / NetworkX', 'Whisper', 'Tailwind', 'Web Audio'],
-    github: 'https://github.com/Rafi-Luffy/Know-Your-Parents',
+    github: 'https://github.com/Rafi-SBM/Know-Your-Parents',
     visual: 'family'
   },
   {
@@ -79,7 +79,7 @@ export const featured: FeaturedSystem[] = [
       'Turborepo monorepo with high-concurrency WebSocket broadcast engine'
     ],
     tech: ['React', 'Node.js', 'FastAPI', 'Whisper AI', 'WebSockets', 'Turborepo', 'MongoDB'],
-    github: 'https://github.com/Rafi-Luffy',
+    github: 'https://github.com/Rafi-SBM',
     visual: 'poll'
   },
   {
@@ -100,7 +100,7 @@ export const featured: FeaturedSystem[] = [
       'Audit log telemetry tracking historical code mutations and safety bounds'
     ],
     tech: ['TypeScript', 'Node.js AST', 'Babel Parser', 'Docker Sandboxing', 'FastAPI'],
-    github: 'https://github.com/Rafi-Luffy/Project-Phoenix',
+    github: 'https://github.com/Rafi-SBM/Project-Phoenix',
     visual: 'phoenix'
   }
 ];
@@ -128,22 +128,22 @@ export const additionalProjects: ProjectTool[] = [
     highlight: '2,300+ Shortcuts · Gamified Engine',
     tech: ['React', 'Firebase', 'HTML/CSS', 'Node.js'],
     url: 'https://shortcut-sensei-1305f.web.app/pages/user/login_page_firebase.html',
-    github: 'https://github.com/Rafi-Luffy'
+    github: 'https://github.com/Rafi-SBM'
   },
   {
     name: 'PySan',
     tagline: '100% client-side in-browser static analysis visualizer for Python package dependencies, bloat analysis, and security removal recommendations.',
     highlight: '100% In-Browser AST Parser',
     tech: ['React 19', 'TypeScript', 'Vite', 'TailwindCSS'],
-    url: 'https://rafi-luffy.github.io/PySan',
-    github: 'https://github.com/Rafi-Luffy/PySan'
+    url: 'https://rafi-sbm.github.io/PySan',
+    github: 'https://github.com/Rafi-SBM/PySan'
   },
   {
     name: 'Memo no Sekai (メモの世界)',
     tagline: 'Secure, distraction-free note-taking application engineered with end-to-end AES encryption and offline-first PWA local storage.',
     highlight: 'End-to-End AES Encryption · Offline PWA',
     tech: ['JavaScript', 'AES Encryption', 'PWA', 'Local Storage'],
-    github: 'https://github.com/Rafi-Luffy/Memo-no-Sekai'
+    github: 'https://github.com/Rafi-SBM/Memo-no-Sekai'
   }
 ];
 
